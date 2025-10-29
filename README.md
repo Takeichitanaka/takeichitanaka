@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;ITThis+is+Takeichi+Tanaka....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Takeichi+Tanaka....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -59,8 +59,3 @@ I’m passionate about turning complex ideas into powerful, practical products t
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-<<<<<<< HEAD
-new-line
-=======
-new line
->>>>>>> ff791f4505d9523a455eb65a37fcdb0dae013188
