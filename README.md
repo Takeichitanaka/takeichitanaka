@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Takeichi+Inoue....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Takeichi+Inoue....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -20,4 +20,7 @@ I had already built so many Websites with the mentioned skill.
 
 <br />
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Fullstack-WEB-Blockchain-Developer&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+</p>
 
