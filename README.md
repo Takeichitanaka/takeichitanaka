@@ -6,18 +6,13 @@
 
 <br />
   
-  Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+ Hello! I’m a Senior Blockchain and Full-Stack Developer with extensive experience building secure, scalable, and high-performance applications across web, mobile, and decentralized platforms.
 
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js |
+I specialize in blockchain development, including DApps, smart contracts, Web3.js, and DeFi ecosystems, with a strong track record delivering NFT marketplaces, crypto exchanges, and yield farming platforms.
 
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
+As a full-stack engineer, I work confidently across both frontend and backend technologies — including React, Next.js, Node.js/Express, Laravel, WordPress, and Python/Django — to create seamless, reliable, and user-focused solutions.
 
-I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Django, and much more.
-
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
-
-I had already built so many Websites with the mentioned skill.
-
+I’m passionate about turning complex ideas into powerful, practical products that push technology forward and deliver real value.
 <br />
 
 <p align="center">
